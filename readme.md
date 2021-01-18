@@ -1,5 +1,5 @@
-This program uses a function to average numbers 
-=====================================================
+This program uses a function to average two numbers 
+==================================================
 
 ## Aaron's Average Code
 

@@ -1,3 +1,5 @@
+#This program has been changed
+
 def AverageNumber():
     num_sum = 0
     how_many_nums = int(input("How many numbers do you want to input?:\n"))
